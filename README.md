@@ -1,3 +1,4 @@
 # Bigdata Programming Project
-1. Goal : Using the news titles, analyze yearly top 10 keywords
-2. Dataset : naver news title(2015~2019)
+- 목표 : 뉴스 제목을 이용하여 연도별 올해의 키워드를 추출, 계절이 키워드에 영향이 있는지 분석
+- 데이터셋 : 2015부터 2019년까지 5년동안의 네이버 종합뉴스 중 경향신문의 뉴스 제목을 크롤링
+- 결과 : 연도별 올해의 키워드는 대부분 정치와 관련되어있었고, 계절이 키워드에 영향을 주지는 않음
